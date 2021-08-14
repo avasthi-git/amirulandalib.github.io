@@ -32,6 +32,7 @@ const socialMediaLinks = {
   medium: "",
   stackoverflow: "https://stackoverflow.com/users/15605896/amirul-islam",
   twiiter: "https://twitter.com/AmirulAndalib",
+  organization: "https://github.com/XcodersHub",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };

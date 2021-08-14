@@ -61,6 +61,12 @@ export default function Projects() {
             href={socialMediaLinks.github}
             newTab={true}
           />
+          <Button
+            text={"Xcdoershub-Organization"}
+            className="git-org"
+            href={socialMediaLinks.organization}
+            newTab={true}
+          />          
         </div>
       </Suspense>
     );
